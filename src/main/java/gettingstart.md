@@ -30,7 +30,19 @@ git log
 ##
 git config --global alias.lol "log --decorate --oneline --graph"
 
+ git log -G"#define SAMPLES"
+ 
+ ##
+List by author name
+git shortlog -s // for summarize
 
+
+##filter logs
+
+git log --all --grep "removed file"
+
+
+ 
 
 
 
