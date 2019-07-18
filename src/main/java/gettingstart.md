@@ -42,6 +42,10 @@ git shortlog -s // for summarize
 git log --all --grep "removed file"
 
 
+
+### Working with remotes
+
+
  
 
 
