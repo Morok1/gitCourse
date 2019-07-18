@@ -45,6 +45,12 @@ git log --all --grep "removed file"
 
 ### Working with remotes
 
+git push [remote-name] --delete [branch-name]
+
+git push [remote-name] :[branch-name]
+
+git remote -v
+
 
  
 
