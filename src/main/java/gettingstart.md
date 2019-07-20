@@ -49,6 +49,7 @@ git push [remote-name] --delete [branch-name]
 
 git push [remote-name] :[branch-name]
 
+
 git remote -v
 
 
